@@ -1,3 +1,8 @@
+### Table of Contents
+  * [hello-world](#hello-world)
+  * [Some heading?](#some-heading)
+    * [How about nested headings?](#how-about-nested-headings)
+
 # hello-world
 =============
 Test
